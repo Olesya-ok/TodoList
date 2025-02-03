@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Counter-React-Core/static/css/main.930939d9.css",
-    "main.js": "/Counter-React-Core/static/js/main.421f57b3.js",
-    "index.html": "/Counter-React-Core/index.html",
-    "main.930939d9.css.map": "/Counter-React-Core/static/css/main.930939d9.css.map",
-    "main.421f57b3.js.map": "/Counter-React-Core/static/js/main.421f57b3.js.map"
+    "main.css": "/TodoList/static/css/main.930939d9.css",
+    "main.js": "/TodoList/static/js/main.421f57b3.js",
+    "index.html": "/TodoList/index.html",
+    "main.930939d9.css.map": "/TodoList/static/css/main.930939d9.css.map",
+    "main.421f57b3.js.map": "/TodoList/static/js/main.421f57b3.js.map"
   },
   "entrypoints": [
     "static/css/main.930939d9.css",
